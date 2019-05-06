@@ -1,1 +1,1 @@
-web: ./src/node_modules/.bin/mime -m 5 app.js
+web: node app.js
