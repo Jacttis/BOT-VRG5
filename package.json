@@ -8,9 +8,7 @@
     "telegraf": "^3.29.0"
   },
   "devDependencies": {},
-  "scripts": {
-    "start": "node app.js"
-  },
+
   "keywords": [
     "bot",
     "VRG5"
